@@ -1,0 +1,8 @@
+C:\Users\viole\source\repos\GeoQuiz\bin\Debug\GeoQuiz.exe.config
+C:\Users\viole\source\repos\GeoQuiz\bin\Debug\GeoQuiz.exe
+C:\Users\viole\source\repos\GeoQuiz\bin\Debug\GeoQuiz.pdb
+C:\Users\viole\source\repos\GeoQuiz\obj\Debug\ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\viole\source\repos\GeoQuiz\obj\Debug\ExamPreparation.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\source\repos\GeoQuiz\obj\Debug\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\viole\source\repos\GeoQuiz\obj\Debug\GeoQuiz.exe
+C:\Users\viole\source\repos\GeoQuiz\obj\Debug\GeoQuiz.pdb
